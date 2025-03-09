@@ -2,7 +2,7 @@
 
 # Clerk Authentication System
 
-![Clerk Auth Banner](./public/images/clerk-auth-banner.png)
+![Clerk Auth Banner](./public/1.png)
 
 A secure authentication system built using Clerk.
 
