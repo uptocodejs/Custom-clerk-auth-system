@@ -1,6 +1,5 @@
 # Clerk Authentication System
 
-# Clerk Authentication System
 
 ![Clerk Auth Banner](./public/1.png)
 
